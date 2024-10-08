@@ -1,0 +1,30 @@
+.header{
+    background-color: indianred;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width:1350px;
+    height: 100px;
+ 
+
+}
+.logo{
+    font-weight:900;
+    font-size:50px;
+    color: navy;
+    font-style: italic;
+}
+.link{
+    font-weight: 400;
+    font-size: larger;
+    white-space: nowrap;
+}
+.link1{
+    font-weight: 400;
+    font-size: larger;
+    white-space: nowrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}

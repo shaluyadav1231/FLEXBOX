@@ -1,0 +1,26 @@
+.flexContainer{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.flexElement{
+    height: 60px;
+    width: 60px;
+    background-color:palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.parentdiv{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(153, 105, 33);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}

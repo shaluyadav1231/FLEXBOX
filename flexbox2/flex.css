@@ -1,0 +1,17 @@
+body{
+    background-color: navy;
+}
+
+.header{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color:burlywood;
+    height: 100px;
+    width:1350px;
+    text-decoration: none;
+    text-align: center;
+};
+.class1{
+    padding-top:20px;
+};
